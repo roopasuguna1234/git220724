@@ -2,5 +2,8 @@ welcome to my class
 This is my second commit
 This is my third commit
 Hello all
+<<<<<<< HEAD
 Hii everyone
 hellow how are you
+=======
+>>>>>>> parent of eceb32b (demo reverting)
